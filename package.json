@@ -1,0 +1,14 @@
+{
+  "name": "bcc9fe82463924f2",
+  "main": "bcc9fe82463924f2@1394.js",
+  "version": "1394.0.0",
+  "homepage": "https://observablehq.com/d/bcc9fe82463924f2",
+  "author": {
+    "name": "ZY Huang",
+    "url": "https://observablehq.com/@blairbandit"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
